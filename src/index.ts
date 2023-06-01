@@ -7,3 +7,9 @@ function render(salesNumber: number) {
 }
 
 render(sales);
+
+// array
+let numbers: number[] = [1, 2, 3];
+
+// tuple
+let user: [number, string] = [1, 'Mosh']
