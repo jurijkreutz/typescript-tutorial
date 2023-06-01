@@ -13,3 +13,8 @@ let numbers: number[] = [1, 2, 3];
 
 // tuple
 let user: [number, string] = [1, 'Mosh']
+
+// enum: PascalCase
+enum Size { Small = 1, Medium = 2, Large = 3 };
+let mySize: Size = Size.Medium;
+console.log(mySize);

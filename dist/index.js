@@ -8,4 +8,7 @@ function render(salesNumber) {
 render(sales);
 let numbers = [1, 2, 3];
 let user = [1, 'Mosh'];
+;
+let mySize = 2;
+console.log(mySize);
 //# sourceMappingURL=index.js.map
