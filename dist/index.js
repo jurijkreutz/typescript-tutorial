@@ -1,7 +1,9 @@
 "use strict";
-let age = 20;
-if (age < 50) {
-    age += 10;
+let sales = 123456789;
+let course = 'TypeScript';
+let is_published = true;
+function render(salesNumber) {
+    console.log(salesNumber);
 }
-console.log(age);
+render(sales);
 //# sourceMappingURL=index.js.map
